@@ -73,10 +73,13 @@ res/
 
 ## 📸 Aperçu (optionnel)
 
-*(Tu peux ajouter des screenshots ici)*
+1.Convertir C-F : 
+screenshots/temp1.jpeg
+screenshots/temp2.jpeg
 
----
-
+2.Convertir km-miles :
+screenshots/d1.jpeg
+screenshots/d2.jpeg
 ## ▶️ Installation
 
 1. Cloner le projet :
